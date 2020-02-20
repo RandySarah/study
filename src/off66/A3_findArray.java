@@ -30,22 +30,34 @@ public class A3_findArray {
         }
 
         int row = array.length; //数组行数
-        int col = array[0].length; //数组列数
+        int col = array[1].length; //数组列数
 
         int r = 0; //查找起始的行号
         int c = col - 1; //查找起始的列号
 
-        //2、查找--要查找的位置确保在数组之内
-        while (row > 0 && col > 0 && r < row && c < col){
+        //2、查找--要查找的位置确保在数组之内 查找区间在[0,row),[0,col)
+        while (r >= 0 && r < row && c >= 0 && c < col){
             if(array[r][c] == num){
                 return true;
             }else if(array[r][c] > num){
                 c--;
             }else{
-                r--;
+                r++;
             }
         }
         return false;
+    }
+
+    public static void main(String[] args) {
+        int[][] matrix = {
+                {1, 2, 8, 9},
+                {2, 4, 9, 12},
+                {4, 7, 10, 13},
+                {6, 8, 11, 15}
+        };
+        System.out.println(find(matrix, 7));
+        System.out.println(find(matrix, 5));
+        System.out.println(find(matrix, 1));
     }
 
 }
