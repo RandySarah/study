@@ -3,10 +3,10 @@ package off66;
 import java.util.Stack;
 
 /**
- * Q4:从尾到头打印链表
+ * Q5:从尾到头打印链表
  * 输入链表的头节点，从尾到头打印每个节点的值
  */
-public class A4_ListReverse {
+public class A5_ListReverse {
 
     public static class ListNode{
 
