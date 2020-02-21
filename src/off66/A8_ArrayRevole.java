@@ -23,12 +23,14 @@ public class A8_ArrayRevole {
         int mid = 0;
 
         while (numbers[lo] >= numbers[hi]){
+            //首尾指针相邻 返回后一个
             if(hi - lo == 1){
                 return numbers[hi];
             }
 
             mid  = lo + (hi - lo) / 2;
 
+            //处理重复元素情况
             if(numbers[lo] == numbers[mid] && numbers[mid] == numbers[hi]){
                 return minInorder(numbers);
             }
@@ -41,6 +43,7 @@ public class A8_ArrayRevole {
                 hi = mid;
             }
         }
+        //返回最小元素
         return numbers[mid];
     }
 
