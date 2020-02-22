@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/off66/A19_MirrorBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/A20_PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/A21_StackWithMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,19 +25,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="A12_PrintMaxNum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/A12_PrintMaxNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-              <folding>
-                <element signature="e#2147#2148#0" expanded="true" />
-                <element signature="e#2177#2178#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="A6_BinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/A6_BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,24 +39,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="259">
               <caret line="59" column="5" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="59" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A14_ReorderArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/A14_ReorderArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-53">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A15_FindTailKInList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/A15_FindTailKInList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -99,11 +70,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="A19_MirrorBinaryTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="A19_MirrorBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/A19_MirrorBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="298">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A20_PrintMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/A20_PrintMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="88" column="36" selection-end-line="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A21_StackWithMin.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/off66/A21_StackWithMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+              <folding>
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vector.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="748" column="26" selection-start-line="748" selection-start-column="26" selection-end-line="748" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -146,6 +148,8 @@
         <option value="$PROJECT_DIR$/src/off66/A17_MergeSortList.java" />
         <option value="$PROJECT_DIR$/src/off66/A18_IsSubTree.java" />
         <option value="$PROJECT_DIR$/src/off66/A19_MirrorBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/off66/A20_PrintMatrix.java" />
+        <option value="$PROJECT_DIR$/src/off66/A21_StackWithMin.java" />
       </list>
     </option>
   </component>
@@ -193,6 +197,32 @@
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -227,29 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.A19_MirrorBinaryTree">
-    <configuration name="A15_FindTailKInList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.A15_FindTailKInList" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="A16_ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.A16_ReverseList" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.A21_StackWithMin">
     <configuration name="A17_MergeSortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.A17_MergeSortList" />
       <module name="study" />
@@ -274,6 +282,28 @@
     </configuration>
     <configuration name="A19_MirrorBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.A19_MirrorBinaryTree" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="A20_PrintMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.A20_PrintMatrix" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="A21_StackWithMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.A21_StackWithMin" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -325,19 +355,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.A15_FindTailKInList" />
-      <item itemvalue="Application.A16_ReverseList" />
       <item itemvalue="Application.A17_MergeSortList" />
       <item itemvalue="Application.A18_IsSubTree" />
       <item itemvalue="Application.A19_MirrorBinaryTree" />
+      <item itemvalue="Application.A20_PrintMatrix" />
+      <item itemvalue="Application.A21_StackWithMin" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A21_StackWithMin" />
+        <item itemvalue="Application.A20_PrintMatrix" />
         <item itemvalue="Application.A19_MirrorBinaryTree" />
         <item itemvalue="Application.A18_IsSubTree" />
         <item itemvalue="Application.A17_MergeSortList" />
-        <item itemvalue="Application.A16_ReverseList" />
-        <item itemvalue="Application.A15_FindTailKInList" />
       </list>
     </recent_temporary>
   </component>
@@ -353,12 +383,12 @@
       <updated>1582157629268</updated>
       <workItem from="1582157630781" duration="19540000" />
       <workItem from="1582194220261" duration="10244000" />
-      <workItem from="1582271635977" duration="22107000" />
+      <workItem from="1582271635977" duration="27444000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51891000" />
+    <option name="totallyTimeSpent" value="57228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -766,8 +796,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/A19_MirrorBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="298">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/A20_PrintMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="88" column="36" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="748" column="26" selection-start-line="748" selection-start-column="26" selection-end-line="748" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/A21_StackWithMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+          <folding>
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
