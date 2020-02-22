@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/off66/A14_ReorderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/A15_FindTailKInList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,15 +29,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A7_QueueByTwoStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/A7_QueueByTwoStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -100,11 +91,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="A14_ReorderArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="A14_ReorderArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/A14_ReorderArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="-53">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A15_FindTailKInList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/off66/A15_FindTailKInList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -141,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/off66/A12_PrintMaxNum.java" />
         <option value="$PROJECT_DIR$/src/off66/A13_DeleteListNode.java" />
         <option value="$PROJECT_DIR$/src/off66/A14_ReorderArray.java" />
+        <option value="$PROJECT_DIR$/src/off66/A15_FindTailKInList.java" />
       </list>
     </option>
   </component>
@@ -222,18 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.A14_ReorderArray">
-    <configuration name="A10_NumOfOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.A10_NumOfOne" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.A15_FindTailKInList">
     <configuration name="A11_Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.A11_Power" />
       <module name="study" />
@@ -269,6 +259,17 @@
     </configuration>
     <configuration name="A14_ReorderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.A14_ReorderArray" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="A15_FindTailKInList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.A15_FindTailKInList" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -320,19 +321,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.A10_NumOfOne" />
       <item itemvalue="Application.A11_Power" />
       <item itemvalue="Application.A12_PrintMaxNum" />
       <item itemvalue="Application.A13_DeleteListNode" />
       <item itemvalue="Application.A14_ReorderArray" />
+      <item itemvalue="Application.A15_FindTailKInList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A15_FindTailKInList" />
         <item itemvalue="Application.A14_ReorderArray" />
         <item itemvalue="Application.A13_DeleteListNode" />
         <item itemvalue="Application.A12_PrintMaxNum" />
         <item itemvalue="Application.A11_Power" />
-        <item itemvalue="Application.A10_NumOfOne" />
       </list>
     </recent_temporary>
   </component>
@@ -348,12 +349,12 @@
       <updated>1582157629268</updated>
       <workItem from="1582157630781" duration="19540000" />
       <workItem from="1582194220261" duration="10244000" />
-      <workItem from="1582271635977" duration="10000000" />
+      <workItem from="1582271635977" duration="11396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39784000" />
+    <option name="totallyTimeSpent" value="41180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -368,12 +369,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20121212" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20121212" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22424242" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22424242" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22460657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22460657" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -688,8 +689,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/A14_ReorderArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="-53">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/A15_FindTailKInList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
         </state>
       </provider>
     </entry>
