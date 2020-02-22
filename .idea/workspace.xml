@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/off66/A17_MergeSortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/A18_IsSubTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/A19_MirrorBinaryTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,29 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="A3_findArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/A3_findArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="A10_NumOfOne.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/A10_NumOfOne.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A11_Power.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/A11_Power.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -52,6 +32,15 @@
                 <element signature="e#2147#2148#0" expanded="true" />
                 <element signature="e#2177#2178#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A6_BinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/A6_BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -101,11 +90,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="A18_IsSubTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="A18_IsSubTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/A18_IsSubTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="95" column="30" selection-end-line="112" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A19_MirrorBinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/off66/A19_MirrorBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -147,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/off66/A16_ReverseList.java" />
         <option value="$PROJECT_DIR$/src/off66/A17_MergeSortList.java" />
         <option value="$PROJECT_DIR$/src/off66/A18_IsSubTree.java" />
+        <option value="$PROJECT_DIR$/src/off66/A19_MirrorBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -228,18 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.A18_IsSubTree">
-    <configuration name="A14_ReorderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.A14_ReorderArray" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.A19_MirrorBinaryTree">
     <configuration name="A15_FindTailKInList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.A15_FindTailKInList" />
       <module name="study" />
@@ -275,6 +263,17 @@
     </configuration>
     <configuration name="A18_IsSubTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.A18_IsSubTree" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="A19_MirrorBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.A19_MirrorBinaryTree" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -326,19 +325,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.A14_ReorderArray" />
       <item itemvalue="Application.A15_FindTailKInList" />
       <item itemvalue="Application.A16_ReverseList" />
       <item itemvalue="Application.A17_MergeSortList" />
       <item itemvalue="Application.A18_IsSubTree" />
+      <item itemvalue="Application.A19_MirrorBinaryTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A19_MirrorBinaryTree" />
         <item itemvalue="Application.A18_IsSubTree" />
         <item itemvalue="Application.A17_MergeSortList" />
         <item itemvalue="Application.A16_ReverseList" />
         <item itemvalue="Application.A15_FindTailKInList" />
-        <item itemvalue="Application.A14_ReorderArray" />
       </list>
     </recent_temporary>
   </component>
@@ -354,12 +353,12 @@
       <updated>1582157629268</updated>
       <workItem from="1582157630781" duration="19540000" />
       <workItem from="1582194220261" duration="10244000" />
-      <workItem from="1582271635977" duration="20571000" />
+      <workItem from="1582271635977" duration="22107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50355000" />
+    <option name="totallyTimeSpent" value="51891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -376,7 +375,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20121212" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22424242" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31272727" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22532189" />
@@ -649,13 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A6_BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/A7_QueueByTwoStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -760,8 +752,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/A18_IsSubTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="95" column="30" selection-end-line="112" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/A6_BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/A19_MirrorBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
         </state>
       </provider>
     </entry>
