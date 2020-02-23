@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/off66/Q25_FindPathInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q26_CloneInMultList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q27_BinaryTreeAndList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q28_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q29_MoreThanHalfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q30_FindMInKNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,37 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="A2_Singleton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/A2_Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A21_StackWithMin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/A21_StackWithMin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q22_StackWithPopPush.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q22_StackWithPopPush.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="48" column="37" lean-forward="true" selection-end-line="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Q23_PrintBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q23_PrintBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,11 +60,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q27_BinaryTreeAndList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q27_BinaryTreeAndList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q27_BinaryTreeAndList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            <state relative-caret-position="418">
+              <caret line="110" lean-forward="true" selection-end-line="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q28_Permutation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q28_Permutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q29_MoreThanHalfNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q29_MoreThanHalfNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="38" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q30_FindMInKNum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q30_FindMInKNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,6 +163,9 @@
         <option value="$PROJECT_DIR$/src/off66/Q25_FindPathInBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/off66/Q26_CloneInMultList.java" />
         <option value="$PROJECT_DIR$/src/off66/Q27_BinaryTreeAndList.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q28_Permutation.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q29_MoreThanHalfNumber.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q30_FindMInKNum.java" />
       </list>
     </option>
   </component>
@@ -271,40 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q27_BinaryTreeAndList">
-    <configuration name="Q23_PrintBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q23_PrintBinaryTree" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Q24_IsBSTSquence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q24_IsBSTSquence" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Q25_FindPathInBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q25_FindPathInBinaryTree" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Q30_FindMInKNum">
     <configuration name="Q26_CloneInMultList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.Q26_CloneInMultList" />
       <module name="study" />
@@ -318,6 +287,39 @@
     </configuration>
     <configuration name="Q27_BinaryTreeAndList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.Q27_BinaryTreeAndList" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Q28_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q28_Permutation" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Q29_MoreThanHalfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q29_MoreThanHalfNumber" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Q30_FindMInKNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q30_FindMInKNum" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -369,19 +371,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Q23_PrintBinaryTree" />
-      <item itemvalue="Application.Q24_IsBSTSquence" />
-      <item itemvalue="Application.Q25_FindPathInBinaryTree" />
       <item itemvalue="Application.Q26_CloneInMultList" />
       <item itemvalue="Application.Q27_BinaryTreeAndList" />
+      <item itemvalue="Application.Q28_Permutation" />
+      <item itemvalue="Application.Q29_MoreThanHalfNumber" />
+      <item itemvalue="Application.Q30_FindMInKNum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q30_FindMInKNum" />
+        <item itemvalue="Application.Q29_MoreThanHalfNumber" />
+        <item itemvalue="Application.Q28_Permutation" />
         <item itemvalue="Application.Q27_BinaryTreeAndList" />
         <item itemvalue="Application.Q26_CloneInMultList" />
-        <item itemvalue="Application.Q25_FindPathInBinaryTree" />
-        <item itemvalue="Application.Q24_IsBSTSquence" />
-        <item itemvalue="Application.Q23_PrintBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -397,12 +399,12 @@
       <updated>1582157629268</updated>
       <workItem from="1582157630781" duration="19540000" />
       <workItem from="1582194220261" duration="10244000" />
-      <workItem from="1582271635977" duration="44088000" />
+      <workItem from="1582271635977" duration="48994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73872000" />
+    <option name="totallyTimeSpent" value="78778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -513,27 +515,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/off66/A9_Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A10_NumOfOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A11_Power.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/A12_PrintMaxNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -856,8 +837,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q27_BinaryTreeAndList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="418">
+          <caret line="110" lean-forward="true" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q28_Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q29_MoreThanHalfNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="38" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q30_FindMInKNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
