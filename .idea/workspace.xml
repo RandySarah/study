@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/off66/Q22_StackWithPopPush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q23_PrintBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q24_IsBSTSquence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q25_FindPathInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q26_CloneInMultList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q27_BinaryTreeAndList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,33 +22,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A6_BinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/A6_BinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="25" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A19_MirrorBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/A19_MirrorBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A20_PrintMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/A20_PrintMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="88" column="36" selection-end-line="94" />
             </state>
           </provider>
         </entry>
@@ -88,11 +61,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q24_IsBSTSquence.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q24_IsBSTSquence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q24_IsBSTSquence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="221">
+              <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q25_FindPathInBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q25_FindPathInBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q26_CloneInMultList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q26_CloneInMultList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1242">
+              <caret line="138" column="21" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q27_BinaryTreeAndList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q27_BinaryTreeAndList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A16_ReverseList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/A16_ReverseList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -102,15 +114,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-276">
               <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Vector.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Vector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="748" column="26" selection-start-line="748" selection-start-column="26" selection-end-line="748" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -158,6 +161,9 @@
         <option value="$PROJECT_DIR$/src/off66/Q22_StackWithPopPush.java" />
         <option value="$PROJECT_DIR$/src/off66/Q23_PrintBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/off66/Q24_IsBSTSquence.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q25_FindPathInBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q26_CloneInMultList.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q27_BinaryTreeAndList.java" />
       </list>
     </option>
   </component>
@@ -265,40 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q24_IsBSTSquence">
-    <configuration name="A20_PrintMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.A20_PrintMatrix" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="A21_StackWithMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.A21_StackWithMin" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Q22_StackWithPopPush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q22_StackWithPopPush" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Q27_BinaryTreeAndList">
     <configuration name="Q23_PrintBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.Q23_PrintBinaryTree" />
       <module name="study" />
@@ -312,6 +285,39 @@
     </configuration>
     <configuration name="Q24_IsBSTSquence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.Q24_IsBSTSquence" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Q25_FindPathInBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q25_FindPathInBinaryTree" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Q26_CloneInMultList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q26_CloneInMultList" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Q27_BinaryTreeAndList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q27_BinaryTreeAndList" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -363,19 +369,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.A20_PrintMatrix" />
-      <item itemvalue="Application.A21_StackWithMin" />
-      <item itemvalue="Application.Q22_StackWithPopPush" />
       <item itemvalue="Application.Q23_PrintBinaryTree" />
       <item itemvalue="Application.Q24_IsBSTSquence" />
+      <item itemvalue="Application.Q25_FindPathInBinaryTree" />
+      <item itemvalue="Application.Q26_CloneInMultList" />
+      <item itemvalue="Application.Q27_BinaryTreeAndList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q27_BinaryTreeAndList" />
+        <item itemvalue="Application.Q26_CloneInMultList" />
+        <item itemvalue="Application.Q25_FindPathInBinaryTree" />
         <item itemvalue="Application.Q24_IsBSTSquence" />
         <item itemvalue="Application.Q23_PrintBinaryTree" />
-        <item itemvalue="Application.Q22_StackWithPopPush" />
-        <item itemvalue="Application.A21_StackWithMin" />
-        <item itemvalue="Application.A20_PrintMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -391,12 +397,12 @@
       <updated>1582157629268</updated>
       <workItem from="1582157630781" duration="19540000" />
       <workItem from="1582194220261" duration="10244000" />
-      <workItem from="1582271635977" duration="33687000" />
+      <workItem from="1582271635977" duration="44088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63471000" />
+    <option name="totallyTimeSpent" value="73872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -507,34 +513,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/off66/A3_findArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A6_BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A7_QueueByTwoStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A8_ArrayRevole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="24" lean-forward="true" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/A9_Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -739,13 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A16_ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/A10_NumOfOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -847,8 +818,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q24_IsBSTSquence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        <state relative-caret-position="221">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q25_FindPathInBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/A16_ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q27/BinaryTreeAndList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q26_CloneInMultList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="138" column="21" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q27_BinaryTreeAndList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
         </state>
       </provider>
     </entry>
