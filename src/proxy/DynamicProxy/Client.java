@@ -3,6 +3,10 @@ package proxy.DynamicProxy;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;
 
+/**
+ * 每一个动态代理类都必须实现InvocationHandler这个接口，并且每个代理类的实例都关联到了一个Handler，
+ * 当我们通过代理对象调用一个方法的时候，这个方法的调用就会被转发为由InvocationHandle这个接口的invoke方法来进行调用。
+ */
 public class Client {
     public static void main(String[] args) {
         //要代理的真实对象
@@ -24,8 +28,8 @@ public class Client {
 
         subject.hello("world");
 
-//        String result = subject.bye();
-//
-//        System.out.println("Result is:" + result);
+        String result = subject.bye();
+
+        System.out.println("Result is:" + result);
     }
 }
