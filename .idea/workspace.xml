@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/off66/Q32_numOf1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q33_SortArrayMIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q34_UglyNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/off66/Q33_SortArrayMIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/off66/Q33_SortArrayMIn.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,15 +26,6 @@
                 <element signature="e#346#347#0" expanded="true" />
                 <element signature="e#384#385#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InvocationHandler.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/reflect/InvocationHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -99,14 +90,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q33_SortArrayMIn.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q33_SortArrayMIn.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q33_SortArrayMIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="101">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q34_UglyNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q34_UglyNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -136,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/off66/A1_Singleton.java" />
         <option value="$PROJECT_DIR$/src/off66/A2_findArray.java" />
         <option value="$PROJECT_DIR$/src/off66/A3_findArray.java" />
         <option value="$PROJECT_DIR$/src/off66/A2_Singleton.java" />
@@ -187,6 +186,7 @@
         <option value="$PROJECT_DIR$/src/off66/Q31_FindSumInArray.java" />
         <option value="$PROJECT_DIR$/src/off66/Q32_numOf1.java" />
         <option value="$PROJECT_DIR$/src/off66/Q33_SortArrayMIn.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q34_UglyNumber.java" />
       </list>
     </option>
   </component>
@@ -328,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q33_SortArrayMIn">
+  <component name="RunManager" selected="Application.Q34_UglyNumber">
     <configuration name="Q31_FindSumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.Q31_FindSumInArray" />
       <module name="study" />
@@ -362,6 +362,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Q34_UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q34_UglyNumber" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -372,17 +383,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javaTest.GenericsTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="genericsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.GenericsTest.genericsTest" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java.GenericsTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -426,19 +426,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.genericsTest" />
       <item itemvalue="Application.genericsTest (1)" />
       <item itemvalue="Application.Q31_FindSumInArray" />
       <item itemvalue="Application.Q32_numOf1" />
       <item itemvalue="Application.Q33_SortArrayMIn" />
+      <item itemvalue="Application.Q34_UglyNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q34_UglyNumber" />
         <item itemvalue="Application.Q33_SortArrayMIn" />
         <item itemvalue="Application.Q32_numOf1" />
         <item itemvalue="Application.Q31_FindSumInArray" />
         <item itemvalue="Application.genericsTest (1)" />
-        <item itemvalue="Application.genericsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -458,12 +458,12 @@
       <workItem from="1582768107641" duration="214000" />
       <workItem from="1582778092397" duration="3573000" />
       <workItem from="1582842961293" duration="2934000" />
-      <workItem from="1583028385142" duration="7685000" />
+      <workItem from="1583028385142" duration="8663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93904000" />
+    <option name="totallyTimeSpent" value="94882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -478,12 +478,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3551515" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3551515" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27030304" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27030304" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -574,13 +574,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/A4_ReplaceSpace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
@@ -807,6 +800,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -921,11 +917,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q33_SortArrayMIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="101">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q34_UglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
