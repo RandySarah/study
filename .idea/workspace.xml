@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaTest/GenericsTest/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/GenericsTest/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/GenericsTest/genericsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proxy/DynamicProxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/DynamicProxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/off66/Q31_FindSumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/off66/Q31_FindSumInArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,8 +59,8 @@
       <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/proxy/DynamicProxy/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="255">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,11 +71,10 @@
       <file leaf-file-name="genericsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/genericsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="187">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#409#418#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,23 +83,26 @@
       <file leaf-file-name="Pair.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/Pair.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
+            <state relative-caret-position="459">
               <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="53" selection-end-column="24" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#534#543#0" expanded="true" />
-                <element signature="e#746#754#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="521">
+              <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q31_FindSumInArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q31_FindSumInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="488">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -111,17 +110,8 @@
       <file leaf-file-name="ClassLoader.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
+            <state relative-caret-position="10166">
               <caret line="661" selection-start-line="661" selection-end-line="661" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Proxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/proxy/StaticProxy/Proxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -176,7 +166,6 @@
         <option value="$PROJECT_DIR$/src/off66/Q28_Permutation.java" />
         <option value="$PROJECT_DIR$/src/off66/Q29_MoreThanHalfNumber.java" />
         <option value="$PROJECT_DIR$/src/off66/Q30_FindMInKNum.java" />
-        <option value="$PROJECT_DIR$/src/off66/Q31_FindSumInArray.java" />
         <option value="$PROJECT_DIR$/src/proxy/DynamicProxy/Subject.java" />
         <option value="$PROJECT_DIR$/src/proxy/DynamicProxy/RealSubject.java" />
         <option value="$PROJECT_DIR$/src/proxy/StaticProxy/Subject.java" />
@@ -191,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/javaTest/GenericsTest/Pair.java" />
         <option value="$PROJECT_DIR$/src/javaTest/GenericsTest/test.java" />
         <option value="$PROJECT_DIR$/src/javaTest/GenericsTest/Test.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q31_FindSumInArray.java" />
       </list>
     </option>
   </component>
@@ -203,7 +193,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="703" />
     <option name="height" value="900" />
   </component>
@@ -238,14 +228,13 @@
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="off66" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="DynamicProxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
@@ -333,7 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.genericsTest (1)">
+  <component name="RunManager" selected="Application.Q31_FindSumInArray">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="proxy.DynamicProxy.Client" />
       <module name="study" />
@@ -356,13 +345,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Proxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="proxy.StaticProxy.Proxy" />
+    <configuration name="Q31_FindSumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q31_FindSumInArray" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="proxy.StaticProxy.*" />
+          <option name="PATTERN" value="off66.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -432,18 +421,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Proxy" />
       <item itemvalue="Application.Generics" />
       <item itemvalue="Application.genericsTest" />
       <item itemvalue="Application.genericsTest (1)" />
+      <item itemvalue="Application.Q31_FindSumInArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q31_FindSumInArray" />
         <item itemvalue="Application.genericsTest (1)" />
         <item itemvalue="Application.genericsTest" />
         <item itemvalue="Application.Generics" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Proxy" />
       </list>
     </recent_temporary>
   </component>
@@ -462,32 +451,32 @@
       <workItem from="1582271635977" duration="49714000" />
       <workItem from="1582768107641" duration="214000" />
       <workItem from="1582778092397" duration="3573000" />
-      <workItem from="1582842961293" duration="2877000" />
+      <workItem from="1582842961293" duration="2934000" />
+      <workItem from="1583028385142" duration="1136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86162000" />
+    <option name="totallyTimeSpent" value="87355000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32969698" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2678788" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2678788" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27030304" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27030304" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1988555" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -502,6 +491,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32969698" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -774,9 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -820,16 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/Q31_FindSumInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -889,15 +866,15 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
+        <state relative-caret-position="10166">
           <caret line="661" selection-start-line="661" selection-end-line="661" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/proxy/DynamicProxy/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="255">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -906,32 +883,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/genericsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="187">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#409#418#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/Pair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
+        <state relative-caret-position="459">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="53" selection-end-column="24" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#534#543#0" expanded="true" />
-            <element signature="e#746#754#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="521">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q31_FindSumInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
         </state>
       </provider>
     </entry>
