@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/off66/Q36_InversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q37_FindFirstCommonNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q38_FindNumCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q39_TreeDepth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,27 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="genericsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/genericsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pair.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/Pair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/Test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q37_FindFirstCommonNode.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q37_FindFirstCommonNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q37_FindFirstCommonNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#552#553#0" expanded="true" />
                 <element signature="e#590#591#0" expanded="true" />
@@ -118,6 +97,28 @@
                 <element signature="e#683#684#0" expanded="true" />
                 <element signature="e#2239#2240#0" expanded="true" />
                 <element signature="e#2259#2260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q38_FindNumCount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q38_FindNumCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="40" column="15" lean-forward="true" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q39_TreeDepth.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q39_TreeDepth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="107" column="16" lean-forward="true" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
+              <folding>
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,8 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/off66/A4_ListReverse.java" />
-        <option value="$PROJECT_DIR$/src/off66/A5_ListReverse.java" />
         <option value="$PROJECT_DIR$/src/off66/A4_ReplaceSpace.java" />
         <option value="$PROJECT_DIR$/src/off66/A6_BinaryTree.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -190,6 +189,8 @@
         <option value="$PROJECT_DIR$/src/off66/Q35_FindNoRepeat.java" />
         <option value="$PROJECT_DIR$/src/off66/Q36_InversePairs.java" />
         <option value="$PROJECT_DIR$/src/off66/Q37_FindFirstCommonNode.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q38_FindNumCount.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q39_TreeDepth.java" />
       </list>
     </option>
   </component>
@@ -331,29 +332,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q37_FindFirstCommonNode">
-    <configuration name="Q33_SortArrayMIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q33_SortArrayMIn" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Q34_UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q34_UglyNumber" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Q39_TreeDepth">
     <configuration name="Q35_FindNoRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.Q35_FindNoRepeat" />
       <module name="study" />
@@ -378,6 +357,28 @@
     </configuration>
     <configuration name="Q37_FindFirstCommonNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.Q37_FindFirstCommonNode" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Q38_FindNumCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q38_FindNumCount" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Q39_TreeDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q39_TreeDepth" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -429,19 +430,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Q33_SortArrayMIn" />
-      <item itemvalue="Application.Q34_UglyNumber" />
       <item itemvalue="Application.Q35_FindNoRepeat" />
       <item itemvalue="Application.Q36_InversePairs" />
       <item itemvalue="Application.Q37_FindFirstCommonNode" />
+      <item itemvalue="Application.Q38_FindNumCount" />
+      <item itemvalue="Application.Q39_TreeDepth" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q39_TreeDepth" />
+        <item itemvalue="Application.Q38_FindNumCount" />
         <item itemvalue="Application.Q37_FindFirstCommonNode" />
         <item itemvalue="Application.Q36_InversePairs" />
         <item itemvalue="Application.Q35_FindNoRepeat" />
-        <item itemvalue="Application.Q34_UglyNumber" />
-        <item itemvalue="Application.Q33_SortArrayMIn" />
       </list>
     </recent_temporary>
   </component>
@@ -461,12 +462,12 @@
       <workItem from="1582768107641" duration="214000" />
       <workItem from="1582778092397" duration="3573000" />
       <workItem from="1582842961293" duration="2934000" />
-      <workItem from="1583028385142" duration="15064000" />
+      <workItem from="1583028385142" duration="19096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101283000" />
+    <option name="totallyTimeSpent" value="105315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -481,12 +482,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34787878" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32363635" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27030304" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -577,20 +578,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A7_QueueByTwoStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/A8_ArrayRevole.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
@@ -940,8 +927,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q37_FindFirstCommonNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#552#553#0" expanded="true" />
             <element signature="e#590#591#0" expanded="true" />
@@ -949,6 +936,24 @@
             <element signature="e#683#684#0" expanded="true" />
             <element signature="e#2239#2240#0" expanded="true" />
             <element signature="e#2259#2260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q38_FindNumCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="40" column="15" lean-forward="true" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q39_TreeDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="107" column="16" lean-forward="true" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
           </folding>
         </state>
       </provider>
