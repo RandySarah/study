@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/off66/Q35_FindNoRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q36_InversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q37_FindFirstCommonNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/proxy/DynamicProxy/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="genericsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/genericsTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q35_FindNoRepeat.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q35_FindNoRepeat.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q35_FindNoRepeat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="283">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,11 +97,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassLoader.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <file leaf-file-name="Q36_InversePairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q36_InversePairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10166">
-              <caret line="661" selection-start-line="661" selection-end-line="661" />
+            <state relative-caret-position="51">
+              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q37_FindFirstCommonNode.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q37_FindFirstCommonNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+              <folding>
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
+                <element signature="e#2239#2240#0" expanded="true" />
+                <element signature="e#2259#2260#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,8 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/off66/A3_findArray.java" />
-        <option value="$PROJECT_DIR$/src/off66/A2_Singleton.java" />
         <option value="$PROJECT_DIR$/src/off66/A4_ListReverse.java" />
         <option value="$PROJECT_DIR$/src/off66/A5_ListReverse.java" />
         <option value="$PROJECT_DIR$/src/off66/A4_ReplaceSpace.java" />
@@ -184,6 +188,8 @@
         <option value="$PROJECT_DIR$/src/off66/Q33_SortArrayMIn.java" />
         <option value="$PROJECT_DIR$/src/off66/Q34_UglyNumber.java" />
         <option value="$PROJECT_DIR$/src/off66/Q35_FindNoRepeat.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q36_InversePairs.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q37_FindFirstCommonNode.java" />
       </list>
     </option>
   </component>
@@ -325,29 +331,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q35_FindNoRepeat">
-    <configuration name="Q31_FindSumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q31_FindSumInArray" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Q32_numOf1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q32_numOf1" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Q37_FindFirstCommonNode">
     <configuration name="Q33_SortArrayMIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.Q33_SortArrayMIn" />
       <module name="study" />
@@ -372,6 +356,28 @@
     </configuration>
     <configuration name="Q35_FindNoRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.Q35_FindNoRepeat" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Q36_InversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q36_InversePairs" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Q37_FindFirstCommonNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q37_FindFirstCommonNode" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -423,19 +429,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Q31_FindSumInArray" />
-      <item itemvalue="Application.Q32_numOf1" />
       <item itemvalue="Application.Q33_SortArrayMIn" />
       <item itemvalue="Application.Q34_UglyNumber" />
       <item itemvalue="Application.Q35_FindNoRepeat" />
+      <item itemvalue="Application.Q36_InversePairs" />
+      <item itemvalue="Application.Q37_FindFirstCommonNode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q37_FindFirstCommonNode" />
+        <item itemvalue="Application.Q36_InversePairs" />
         <item itemvalue="Application.Q35_FindNoRepeat" />
         <item itemvalue="Application.Q34_UglyNumber" />
         <item itemvalue="Application.Q33_SortArrayMIn" />
-        <item itemvalue="Application.Q32_numOf1" />
-        <item itemvalue="Application.Q31_FindSumInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -455,12 +461,12 @@
       <workItem from="1582768107641" duration="214000" />
       <workItem from="1582778092397" duration="3573000" />
       <workItem from="1582842961293" duration="2934000" />
-      <workItem from="1583028385142" duration="10066000" />
+      <workItem from="1583028385142" duration="15064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96285000" />
+    <option name="totallyTimeSpent" value="101283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -475,12 +481,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3551515" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34787878" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27030304" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -571,16 +577,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/off66/A5_ListReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/study/off66/A2_Singleton.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -747,6 +743,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -924,10 +923,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q35_FindNoRepeat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="283">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q36_InversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q37_FindFirstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+          <folding>
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#2239#2240#0" expanded="true" />
+            <element signature="e#2259#2260#0" expanded="true" />
           </folding>
         </state>
       </provider>
