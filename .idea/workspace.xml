@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/off66/Q40_FindNumbersAppearanceOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q41_NumberWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q42_Reverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,18 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Q33_SortArrayMIn.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q33_SortArrayMIn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Q34_UglyNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q34_UglyNumber.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q41_NumberWithSum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q41_NumberWithSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q41_NumberWithSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="83" selection-start-line="83" selection-start-column="2" selection-end-line="90" selection-end-column="56" />
+            <state relative-caret-position="166">
+              <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,10 +101,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Q42_Reverse.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q42_Reverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="53346">
               <caret line="3209" selection-start-line="3209" selection-end-line="3209" />
             </state>
           </provider>
@@ -139,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/off66/A7_QueueByTwoStack.java" />
         <option value="$PROJECT_DIR$/src/off66/A8_ArrayRevole.java" />
         <option value="$PROJECT_DIR$/src/off66/A9_Fibonacci.java" />
@@ -190,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/off66/Q39_TreeDepth.java" />
         <option value="$PROJECT_DIR$/src/off66/Q40_FindNumbersAppearanceOnce.java" />
         <option value="$PROJECT_DIR$/src/off66/Q41_NumberWithSum.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q42_Reverse.java" />
       </list>
     </option>
   </component>
@@ -202,7 +198,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="703" />
     <option name="height" value="900" />
   </component>
@@ -213,6 +209,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,8 +297,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,18 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q41_NumberWithSum">
-    <configuration name="Q37_FindFirstCommonNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q37_FindFirstCommonNode" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="off66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Q42_Reverse">
     <configuration name="Q38_FindNumCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.Q38_FindNumCount" />
       <module name="study" />
@@ -378,6 +363,17 @@
     </configuration>
     <configuration name="Q41_NumberWithSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="off66.Q41_NumberWithSum" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="off66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Q42_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q42_Reverse" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -429,19 +425,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Q37_FindFirstCommonNode" />
       <item itemvalue="Application.Q38_FindNumCount" />
       <item itemvalue="Application.Q39_TreeDepth" />
       <item itemvalue="Application.Q40_FindNumbersAppearanceOnce" />
       <item itemvalue="Application.Q41_NumberWithSum" />
+      <item itemvalue="Application.Q42_Reverse" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q42_Reverse" />
         <item itemvalue="Application.Q41_NumberWithSum" />
         <item itemvalue="Application.Q40_FindNumbersAppearanceOnce" />
         <item itemvalue="Application.Q39_TreeDepth" />
         <item itemvalue="Application.Q38_FindNumCount" />
-        <item itemvalue="Application.Q37_FindFirstCommonNode" />
       </list>
     </recent_temporary>
   </component>
@@ -462,12 +458,13 @@
       <workItem from="1582778092397" duration="3573000" />
       <workItem from="1582842961293" duration="2934000" />
       <workItem from="1583028385142" duration="19209000" />
-      <workItem from="1583108837832" duration="3995000" />
+      <workItem from="1583108837832" duration="4123000" />
+      <workItem from="1583152444259" duration="2405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109423000" />
+    <option name="totallyTimeSpent" value="111956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -482,19 +479,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32363635" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32363635" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27030304" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20457797" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2074392" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -560,8 +557,20 @@
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/off66/Q42_Reverse.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/off66/Q42_Reverse.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -584,13 +593,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/off66/A11_Power.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/A12_PrintMaxNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -828,9 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="12" column="16" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -934,18 +933,25 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="53346">
           <caret line="3209" selection-start-line="3209" selection-end-line="3209" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q41_NumberWithSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="83" selection-start-line="83" selection-start-column="2" selection-end-line="90" selection-end-column="56" />
+        <state relative-caret-position="166">
+          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q42_Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
         </state>
       </provider>
     </entry>
