@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/off66/Q45_LastRemaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q47_Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q49_StringToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q50_FindParents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q51_Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q55_FindOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q56_MeetingNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q59_isSymmetrical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/off66/Q60_PrintTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,50 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Q38_FindNumCount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q38_FindNumCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="15" selection-end-line="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q39_TreeDepth.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q39_TreeDepth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q40_FindNumbersAppearanceOnce.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q40_FindNumbersAppearanceOnce.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="56" column="49" selection-end-line="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q41_NumberWithSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q41_NumberWithSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Q42_Reverse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q42_Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1275">
-              <caret line="75" lean-forward="true" selection-end-line="75" />
+              <caret line="75" selection-end-line="75" />
             </state>
           </provider>
         </entry>
@@ -69,12 +31,12 @@
       <file leaf-file-name="Q45_LastRemaining.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q45_LastRemaining.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="238">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#747#748#0" expanded="true" />
-                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#810#811#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/off66/Q47_Add.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -92,8 +54,8 @@
       <file leaf-file-name="Q49_StringToInt.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q49_StringToInt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+            <state relative-caret-position="952">
+              <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
               <folding>
                 <element signature="e#728#729#0" expanded="true" />
                 <element signature="e#771#772#0" expanded="true" />
@@ -102,27 +64,84 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q50_FindParents.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q50_FindParents.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/off66/Q50_FindParents.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="626">
-              <caret line="127" column="57" selection-start-line="127" selection-start-column="57" selection-end-line="127" selection-end-column="57" />
+            <state relative-caret-position="-5">
+              <caret column="3" selection-start-column="3" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <file leaf-file-name="Q51_Duplicate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q51_Duplicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53346">
-              <caret line="3209" selection-start-line="3209" selection-end-line="3209" />
+            <state relative-caret-position="278">
+              <caret line="48" column="41" lean-forward="true" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q55_FindOnce.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q55_FindOnce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+              <folding>
+                <element signature="e#1332#1333#0" expanded="true" />
+                <element signature="e#1419#1420#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q56_MeetingNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q56_MeetingNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
+              <folding>
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q59_isSymmetrical.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q59_isSymmetrical.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" column="15" selection-start-line="50" selection-end-line="51" />
+              <folding>
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q60_PrintTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/off66/Q60_PrintTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,11 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/off66/A11_Power.java" />
-        <option value="$PROJECT_DIR$/src/off66/A12_PrintMaxNum.java" />
-        <option value="$PROJECT_DIR$/src/off66/A13_DeleteListNode.java" />
-        <option value="$PROJECT_DIR$/src/off66/A14_ReorderArray.java" />
-        <option value="$PROJECT_DIR$/src/off66/A15_FindTailKInList.java" />
         <option value="$PROJECT_DIR$/src/off66/A16_reverseList.java" />
         <option value="$PROJECT_DIR$/src/off66/A16_ReverseList.java" />
         <option value="$PROJECT_DIR$/src/off66/A17_MergeSortList.java" />
@@ -194,6 +208,11 @@
         <option value="$PROJECT_DIR$/src/off66/Q47_Add.java" />
         <option value="$PROJECT_DIR$/src/off66/Q49_StringToInt.java" />
         <option value="$PROJECT_DIR$/src/off66/Q50_FindParents.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q51_Duplicate.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q55_FindOnce.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q56_MeetingNode.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q59_isSymmetrical.java" />
+        <option value="$PROJECT_DIR$/src/off66/Q60_PrintTree.java" />
       </list>
     </option>
   </component>
@@ -206,7 +225,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="703" />
     <option name="height" value="900" />
   </component>
@@ -216,9 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -305,6 +321,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,9 +354,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q50_FindParents">
-    <configuration name="Q42_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q42_Reverse" />
+  <component name="RunManager" selected="Application.Q60_PrintTree">
+    <configuration name="Q51_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q51_Duplicate" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -347,8 +366,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Q45_LastRemaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q45_LastRemaining" />
+    <configuration name="Q55_FindOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q55_FindOnce" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -358,8 +377,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Q47_Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q47_Add" />
+    <configuration name="Q56_MeetingNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q56_MeetingNode" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -369,8 +388,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Q49_StringToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q49_StringToInt" />
+    <configuration name="Q59_isSymmetrical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q59_isSymmetrical" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -380,8 +399,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Q50_FindParents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q50_FindParents" />
+    <configuration name="Q60_PrintTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="off66.Q60_PrintTree" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -433,19 +452,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Q42_Reverse" />
-      <item itemvalue="Application.Q45_LastRemaining" />
-      <item itemvalue="Application.Q47_Add" />
-      <item itemvalue="Application.Q49_StringToInt" />
-      <item itemvalue="Application.Q50_FindParents" />
+      <item itemvalue="Application.Q51_Duplicate" />
+      <item itemvalue="Application.Q55_FindOnce" />
+      <item itemvalue="Application.Q56_MeetingNode" />
+      <item itemvalue="Application.Q59_isSymmetrical" />
+      <item itemvalue="Application.Q60_PrintTree" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q50_FindParents" />
-        <item itemvalue="Application.Q49_StringToInt" />
-        <item itemvalue="Application.Q47_Add" />
-        <item itemvalue="Application.Q45_LastRemaining" />
-        <item itemvalue="Application.Q42_Reverse" />
+        <item itemvalue="Application.Q60_PrintTree" />
+        <item itemvalue="Application.Q59_isSymmetrical" />
+        <item itemvalue="Application.Q56_MeetingNode" />
+        <item itemvalue="Application.Q55_FindOnce" />
+        <item itemvalue="Application.Q51_Duplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -467,12 +486,13 @@
       <workItem from="1582842961293" duration="2934000" />
       <workItem from="1583028385142" duration="19209000" />
       <workItem from="1583108837832" duration="4123000" />
-      <workItem from="1583152444259" duration="7293000" />
+      <workItem from="1583152444259" duration="7399000" />
+      <workItem from="1583195636680" duration="3713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116844000" />
+    <option name="totallyTimeSpent" value="120663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -487,12 +507,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32363635" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32363635" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27030304" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2074392" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21030043" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -583,8 +603,20 @@
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/off66/Q51_Duplicate.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/off66/Q51_Duplicate.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="21" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -607,35 +639,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/off66/A18/IsSubTree.java" />
-    <entry file="file://$PROJECT_DIR$/src/off66/A17_MergeSortList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="17" lean-forward="true" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A18_IsSubTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A6_BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A19_MirrorBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/A20_PrintMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -847,9 +850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -922,7 +922,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q41_NumberWithSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
+        <state relative-caret-position="1105">
           <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -930,28 +930,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/Q45/LastRemaining.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q45/LastRemaining.java" />
     <entry file="file://$PROJECT_DIR$/src/off66/Q42_Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1275">
-          <caret line="75" lean-forward="true" selection-end-line="75" />
+          <caret line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q45_LastRemaining.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="238">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#747#748#0" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -959,14 +953,14 @@
     <entry file="file://$PROJECT_DIR$/src/off66/Q47_Add.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q49_StringToInt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+        <state relative-caret-position="952">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
           <folding>
             <element signature="e#728#729#0" expanded="true" />
             <element signature="e#771#772#0" expanded="true" />
@@ -976,14 +970,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q50_FindParents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="127" column="57" selection-start-line="127" selection-start-column="57" selection-end-line="127" selection-end-column="57" />
+        <state relative-caret-position="-5">
+          <caret column="3" selection-start-column="3" selection-end-line="7" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q51_Duplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="48" column="41" lean-forward="true" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q55_FindOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q56_MeetingNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
+          <folding>
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q59_isSymmetrical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="15" selection-start-line="50" selection-end-line="51" />
+          <folding>
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/off66/Q60_PrintTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
           </folding>
         </state>
       </provider>
