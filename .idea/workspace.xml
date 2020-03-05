@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/off66/Q61_PrintTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q62_BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/off66/Q63_FindK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ServerTest/UdpServer/UdpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ServerTest/UdpServer/UdpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ThreadTest/RunnableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ThreadTest/ThreadTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,142 +23,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Q49_StringToInt.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q49_StringToInt.java">
+      <file leaf-file-name="ThreadTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/ThreadTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
-              <folding>
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#771#772#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="697">
+              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q50_FindParents.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q50_FindParents.java">
+      <file leaf-file-name="SynchronizedDemo1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-line="7" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q51_Duplicate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q51_Duplicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="41" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q55_FindOnce.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q55_FindOnce.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-              <folding>
-                <element signature="e#1332#1333#0" expanded="true" />
-                <element signature="e#1419#1420#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q56_MeetingNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q56_MeetingNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="67" column="21" selection-end-line="77" />
-              <folding>
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q59_isSymmetrical.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q59_isSymmetrical.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="24" selection-end-line="101" />
-              <folding>
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#711#712#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q60_PrintTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q60_PrintTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q61_PrintTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q61_PrintTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#485#486#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q62_BinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q62_BinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1462">
-              <caret line="86" column="28" lean-forward="true" selection-end-line="102" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#1404#1405#0" expanded="true" />
-                <element signature="e#1428#1429#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q63_FindK.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/off66/Q63_FindK.java">
+      <file leaf-file-name="SynchronizedDemo2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SynchronizedDemo3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UdpServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/UdpServer/UdpServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
               <folding>
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TcpServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="40" column="25" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TcpClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UdpClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/UdpServer/UdpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunnableTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/RunnableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="707" selection-start-line="707" selection-end-line="707" />
             </state>
           </provider>
         </entry>
@@ -173,17 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/off66/A18_IsSubTree.java" />
-        <option value="$PROJECT_DIR$/src/off66/A19_MirrorBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/off66/A20_PrintMatrix.java" />
-        <option value="$PROJECT_DIR$/src/off66/A21_StackWithMin.java" />
-        <option value="$PROJECT_DIR$/src/off66/Q22_StackWithPopPush.java" />
-        <option value="$PROJECT_DIR$/src/off66/Q23_PrintBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/off66/Q24_IsBSTSquence.java" />
-        <option value="$PROJECT_DIR$/src/off66/Q25_FindPathInBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/off66/Q26_CloneInMultList.java" />
-        <option value="$PROJECT_DIR$/src/off66/Q27_BinaryTreeAndList.java" />
-        <option value="$PROJECT_DIR$/src/off66/Q28_Permutation.java" />
         <option value="$PROJECT_DIR$/src/off66/Q29_MoreThanHalfNumber.java" />
         <option value="$PROJECT_DIR$/src/off66/Q30_FindMInKNum.java" />
         <option value="$PROJECT_DIR$/src/proxy/DynamicProxy/Subject.java" />
@@ -224,6 +185,17 @@
         <option value="$PROJECT_DIR$/src/off66/Q61_PrintTree.java" />
         <option value="$PROJECT_DIR$/src/off66/Q62_BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/off66/Q63_FindK.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/ThreadTest/RunnableTest.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/ThreadTest/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedTest.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedTest.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo1.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo2.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo3.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/ServerTest/UdpServer/UdpServer.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/ServerTest/UdpServer/UdpClient.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpServer.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpClient.java" />
       </list>
     </option>
   </component>
@@ -236,8 +208,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="703" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="726" />
+    <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -246,9 +219,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,13 +235,22 @@
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GenericsTest" type="462c0819:PsiDirectoryNode" />
+              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="off66" type="462c0819:PsiDirectoryNode" />
+              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="ServerTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="ServerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="TcpServer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
@@ -335,6 +314,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,58 +347,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q63_FindK">
-    <configuration name="Q59_isSymmetrical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q59_isSymmetrical" />
+  <component name="RunManager" selected="Application.TcpClient">
+    <configuration name="RunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.ThreadTest.RunnableTest" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="off66.*" />
+          <option name="PATTERN" value="javaTest.ThreadTest.SynchronizedDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Q60_PrintTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q60_PrintTree" />
+    <configuration name="TcpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.ServerTest.TcpServer.TcpClient" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="off66.*" />
+          <option name="PATTERN" value="javaTest.ServerTest.TcpServer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Q61_PrintTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q61_PrintTree" />
+    <configuration name="TcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.ServerTest.TcpServer.TcpServer" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="off66.*" />
+          <option name="PATTERN" value="javaTest.ServerTest.TcpServer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Q62_BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q62_BinaryTree" />
+    <configuration name="UdpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.ServerTest.UdpServer.UdpClient" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="off66.*" />
+          <option name="PATTERN" value="javaTest.ServerTest.UdpServer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Q63_FindK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="off66.Q63_FindK" />
+    <configuration name="UdpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.ServerTest.UdpServer.UdpServer" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="off66.*" />
+          <option name="PATTERN" value="javaTest.ServerTest.UdpServer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -463,19 +445,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Q59_isSymmetrical" />
-      <item itemvalue="Application.Q60_PrintTree" />
-      <item itemvalue="Application.Q61_PrintTree" />
-      <item itemvalue="Application.Q62_BinaryTree" />
-      <item itemvalue="Application.Q63_FindK" />
+      <item itemvalue="Application.RunnableTest" />
+      <item itemvalue="Application.UdpClient" />
+      <item itemvalue="Application.UdpServer" />
+      <item itemvalue="Application.TcpServer" />
+      <item itemvalue="Application.TcpClient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q63_FindK" />
-        <item itemvalue="Application.Q62_BinaryTree" />
-        <item itemvalue="Application.Q61_PrintTree" />
-        <item itemvalue="Application.Q60_PrintTree" />
-        <item itemvalue="Application.Q59_isSymmetrical" />
+        <item itemvalue="Application.TcpClient" />
+        <item itemvalue="Application.TcpServer" />
+        <item itemvalue="Application.UdpServer" />
+        <item itemvalue="Application.UdpClient" />
+        <item itemvalue="Application.RunnableTest" />
       </list>
     </recent_temporary>
   </component>
@@ -499,15 +481,16 @@
       <workItem from="1583108837832" duration="4123000" />
       <workItem from="1583152444259" duration="7399000" />
       <workItem from="1583195636680" duration="3860000" />
-      <workItem from="1583243730718" duration="2443000" />
+      <workItem from="1583243730718" duration="2470000" />
+      <workItem from="1583390525849" duration="8286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123253000" />
+    <option name="totallyTimeSpent" value="131566000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -519,12 +502,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3309091" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3309091" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27030304" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2630303" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21316166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22389127" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -651,77 +634,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/off66/A2_Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/Q22_StackWithPopPush.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="48" column="37" lean-forward="true" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-276">
-          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/Q23_PrintBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/Q24_IsBSTSquence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/Q25_FindPathInBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/A16_ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/Q27/BinaryTreeAndList.java" />
-    <entry file="file://$PROJECT_DIR$/src/off66/Q26_CloneInMultList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2346">
-          <caret line="138" column="21" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/Q27_BinaryTreeAndList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/Q28_Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q29_MoreThanHalfNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -796,30 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/genericsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1006,7 +894,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q60_PrintTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="340">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1016,30 +904,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q61_PrintTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        <state relative-caret-position="272">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/off66/Q62_BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" column="28" lean-forward="true" selection-end-line="102" />
+        <state relative-caret-position="1343">
+          <caret line="86" column="28" selection-end-line="102" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#1404#1405#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1047,12 +925,123 @@
     <entry file="file://$PROJECT_DIR$/src/off66/Q63_FindK.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/GenericsTest/genericsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="707" selection-start-line="707" selection-end-line="707" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/RunnableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/UdpServer/UdpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/UdpServer/UdpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
