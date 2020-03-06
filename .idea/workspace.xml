@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/ServerTest/UdpServer/UdpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/ServerTest/UdpServer/UdpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/ThreadTest/RunnableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/ThreadTest/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q1_BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q2_InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q3_SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q4_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q5_QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,33 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ThreadTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/ThreadTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SynchronizedDemo1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SynchronizedDemo2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SynchronizedDemo3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/SynchronizedDemo/SynchronizedDemo3.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,7 +43,7 @@
       <file leaf-file-name="TcpServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
+            <state relative-caret-position="18">
               <caret line="40" column="25" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -83,10 +52,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TcpClient.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q1_BubbleSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q1_BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="36" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q2_InsertSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q2_InsertSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q3_SelectSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q3_SelectSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q5_QuickSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q5_QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q4_MergeSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q4_MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TcpClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
+            <state relative-caret-position="426">
               <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -107,28 +129,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RunnableTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaTest/ThreadTest/RunnableTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="707" selection-start-line="707" selection-end-line="707" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -145,12 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/off66/Q29_MoreThanHalfNumber.java" />
-        <option value="$PROJECT_DIR$/src/off66/Q30_FindMInKNum.java" />
-        <option value="$PROJECT_DIR$/src/proxy/DynamicProxy/Subject.java" />
-        <option value="$PROJECT_DIR$/src/proxy/DynamicProxy/RealSubject.java" />
-        <option value="$PROJECT_DIR$/src/proxy/StaticProxy/Subject.java" />
-        <option value="$PROJECT_DIR$/src/proxy/StaticProxy/RealSubject.java" />
         <option value="$PROJECT_DIR$/src/proxy/StaticProxy/Proxy.java" />
         <option value="$PROJECT_DIR$/src/proxy/DynamicProxy/InvocationHandlerDemo.java" />
         <option value="$PROJECT_DIR$/src/proxy/DynamicProxy/Client.java" />
@@ -196,6 +190,12 @@
         <option value="$PROJECT_DIR$/src/javaTest/ServerTest/UdpServer/UdpClient.java" />
         <option value="$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpServer.java" />
         <option value="$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpClient.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/SortTest/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/SortTest/Q1_BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/SortTest/Q2_InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/SortTest/Q3_SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/SortTest/Q4_MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/SortTest/Q5_QuickSort.java" />
       </list>
     </option>
   </component>
@@ -208,7 +208,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="726" />
     <option name="width" value="714" />
     <option name="height" value="900" />
@@ -242,21 +242,7 @@
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="ServerTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="ServerTest" type="462c0819:PsiDirectoryNode" />
-              <item name="TcpServer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="SortTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
@@ -347,58 +333,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TcpClient">
-    <configuration name="RunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.ThreadTest.RunnableTest" />
+  <component name="RunManager" selected="Application.Q5_QuickSort">
+    <configuration name="Q1_BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.SortTest.Q1_BubbleSort" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTest.ThreadTest.SynchronizedDemo.*" />
+          <option name="PATTERN" value="javaTest.SortTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TcpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.ServerTest.TcpServer.TcpClient" />
+    <configuration name="Q2_InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.SortTest.Q2_InsertSort" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTest.ServerTest.TcpServer.*" />
+          <option name="PATTERN" value="javaTest.SortTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.ServerTest.TcpServer.TcpServer" />
+    <configuration name="Q3_SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.SortTest.Q3_SelectSort" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTest.ServerTest.TcpServer.*" />
+          <option name="PATTERN" value="javaTest.SortTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="UdpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.ServerTest.UdpServer.UdpClient" />
+    <configuration name="Q4_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.SortTest.Q4_MergeSort" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTest.ServerTest.UdpServer.*" />
+          <option name="PATTERN" value="javaTest.SortTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="UdpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.ServerTest.UdpServer.UdpServer" />
+    <configuration name="Q5_QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.SortTest.Q5_QuickSort" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTest.ServerTest.UdpServer.*" />
+          <option name="PATTERN" value="javaTest.SortTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -445,19 +431,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.RunnableTest" />
-      <item itemvalue="Application.UdpClient" />
-      <item itemvalue="Application.UdpServer" />
-      <item itemvalue="Application.TcpServer" />
-      <item itemvalue="Application.TcpClient" />
+      <item itemvalue="Application.Q1_BubbleSort" />
+      <item itemvalue="Application.Q2_InsertSort" />
+      <item itemvalue="Application.Q3_SelectSort" />
+      <item itemvalue="Application.Q4_MergeSort" />
+      <item itemvalue="Application.Q5_QuickSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TcpClient" />
-        <item itemvalue="Application.TcpServer" />
-        <item itemvalue="Application.UdpServer" />
-        <item itemvalue="Application.UdpClient" />
-        <item itemvalue="Application.RunnableTest" />
+        <item itemvalue="Application.Q5_QuickSort" />
+        <item itemvalue="Application.Q4_MergeSort" />
+        <item itemvalue="Application.Q3_SelectSort" />
+        <item itemvalue="Application.Q2_InsertSort" />
+        <item itemvalue="Application.Q1_BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -482,12 +468,12 @@
       <workItem from="1583152444259" duration="7399000" />
       <workItem from="1583195636680" duration="3860000" />
       <workItem from="1583243730718" duration="2470000" />
-      <workItem from="1583390525849" duration="8286000" />
+      <workItem from="1583390525849" duration="14238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131566000" />
+    <option name="totallyTimeSpent" value="137518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -502,9 +488,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3309091" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3309091" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2630303" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26181817" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22389127" />
@@ -610,8 +596,20 @@
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaTest/SortTest/Q1_BubbleSort.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaTest/SortTest/Q2_InsertSort.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="22" />
+      <option name="time" value="24" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -634,41 +632,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/off66/Q29_MoreThanHalfNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="38" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/off66/Q30_FindMInKNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxy/StaticProxy/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxy/StaticProxy/RealSubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxy/StaticProxy/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/proxy/DynamicProxy/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1026,9 +989,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
+        <state relative-caret-position="18">
           <caret line="40" column="25" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1036,12 +1009,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTest/ServerTest/TcpServer/TcpClient.java">
+    <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q2_InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="354">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q1_BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q3_SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q4_MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q5_QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
           </folding>
         </state>
       </provider>
