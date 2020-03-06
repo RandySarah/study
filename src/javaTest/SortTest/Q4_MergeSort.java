@@ -8,14 +8,20 @@ package javaTest.SortTest;
 public class Q4_MergeSort {
 
     public static void sort(int[] array){
-        mergeSort(array,0,array.length-1);
+        merge(array,0,array.length-1);
     }
 
-    public static void mergeSort(int[] array, int p, int r){
+    /**
+     * 递归分为左右数组排序，在进行排序合并
+     * @param array
+     * @param p
+     * @param r
+     */
+    public static void merge(int[] array, int p, int r){
         if(p < r){
             int q = (p+r)/2;
-            mergeSort(array,p,q);
-            mergeSort(array,q+1,r);
+            merge(array,p,q);
+            merge(array,q+1,r);
             merge(array,p,q,r);
         }
     }
@@ -24,8 +30,10 @@ public class Q4_MergeSort {
         //n1和n2分别代表左边序列和右边序列的长度，左边从p开始包括q，右边从q+1开始
         int n1 = q-p+1;
         int n2 = r-q;
+        //new出来左右数组进行初始化
         int L[] = new int[n1];
         int R[] = new int[n2];
+
 //		k用来表示当前遍历的数组a的索引
         int i=0,j=0,k=0;
 //		分别给L和R赋值
@@ -36,7 +44,7 @@ public class Q4_MergeSort {
         for(j=0,k=q+1; j<n2; j++,k++){
             R[j] = a[k];
         }
-//		比较大小,从小到大排列
+//		比较左右数组大小,将数据合并到原来数组
         for(i=0,j=0,k=p; i<n1&&j<n2; k++){
             if(L[i] > R[j]){
                 a[k] = R[j];
@@ -45,7 +53,7 @@ public class Q4_MergeSort {
                 a[k] = L[i];
                 i++;
             }
-        }//for
+        }
 //		将两个数组中剩下的数放到a中
         if(i<n1){
             for(j=i; j<n1; j++,k++){

@@ -1,5 +1,9 @@
 package javaTest.SortTest;
 
+/**
+ * Q5:快速排序
+ * 将待排序的元素取一个基准，将待排序的元素进行一个分区，左边放比基准元素大的数据，右边放比基准元素小得数据，再对两个未排序分区进行递归排序。
+ */
 public class Q5_QuickSort {
 
     public static void sort(int[] array){

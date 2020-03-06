@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q1_BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q2_InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q3_SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q4_MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q5_QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaTest/SortTest/Q4_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q4_MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaTest/SortTest/Q5_QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTest/SortTest/Q5_QuickSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,11 +78,11 @@
       <file leaf-file-name="Q5_QuickSort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q5_QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+            <state relative-caret-position="153">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,11 +91,11 @@
       <file leaf-file-name="Q4_MergeSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q4_MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
               <folding>
                 <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -194,8 +190,8 @@
         <option value="$PROJECT_DIR$/src/javaTest/SortTest/Q1_BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/javaTest/SortTest/Q2_InsertSort.java" />
         <option value="$PROJECT_DIR$/src/javaTest/SortTest/Q3_SelectSort.java" />
-        <option value="$PROJECT_DIR$/src/javaTest/SortTest/Q4_MergeSort.java" />
         <option value="$PROJECT_DIR$/src/javaTest/SortTest/Q5_QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/javaTest/SortTest/Q4_MergeSort.java" />
       </list>
     </option>
   </component>
@@ -468,15 +464,15 @@
       <workItem from="1583152444259" duration="7399000" />
       <workItem from="1583195636680" duration="3860000" />
       <workItem from="1583243730718" duration="2470000" />
-      <workItem from="1583390525849" duration="14238000" />
+      <workItem from="1583390525849" duration="15798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137518000" />
+    <option name="totallyTimeSpent" value="139078000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -488,9 +484,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3309091" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3309091" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26181817" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26060605" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22389127" />
@@ -1032,22 +1028,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q4_MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
           <folding>
             <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaTest/SortTest/Q5_QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
           </folding>
         </state>
       </provider>
