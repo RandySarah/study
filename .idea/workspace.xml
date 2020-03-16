@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63285039-83e2-4f48-a93c-079cc78918cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaTest/ThreadTest/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/L11_containerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/L15_3sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/L5_longestPalindromicSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/off66/A6_BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/off66/A6_BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/L15_3sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/L15_3sum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,8 +74,8 @@
       <file leaf-file-name="L15_3sum.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/leetcode/L15_3sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            <state relative-caret-position="709">
+              <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -194,7 +189,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -311,9 +306,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.L11_containerWithMostWater">
+  <component name="RunManager" selected="Application.L15_3sum">
     <configuration name="L11_containerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.L11_containerWithMostWater" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="L15_3sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.L15_3sum" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -330,17 +336,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Q7_CountSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.SortTest.Q7_CountSort" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaTest.SortTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,19 +404,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Q7_CountSort" />
       <item itemvalue="Application.Q8_RadixSort" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.L5_longestPalindromicSubstring" />
       <item itemvalue="Application.L11_containerWithMostWater" />
+      <item itemvalue="Application.L15_3sum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L15_3sum" />
         <item itemvalue="Application.L11_containerWithMostWater" />
         <item itemvalue="Application.L5_longestPalindromicSubstring" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Q8_RadixSort" />
-        <item itemvalue="Application.Q7_CountSort" />
       </list>
     </recent_temporary>
   </component>
@@ -451,15 +446,15 @@
       <workItem from="1583743811771" duration="1488000" />
       <workItem from="1583890314586" duration="3613000" />
       <workItem from="1584009315749" duration="823000" />
-      <workItem from="1584239435004" duration="6478000" />
+      <workItem from="1584239435004" duration="8825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159310000" />
+    <option name="totallyTimeSpent" value="161657000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -471,7 +466,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19757576" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19757576" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.28242424" />
       <window_info id="Capture Tool" order="2" />
@@ -970,8 +965,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/L15_3sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        <state relative-caret-position="709">
+          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

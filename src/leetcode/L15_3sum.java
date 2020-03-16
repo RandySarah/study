@@ -1,5 +1,6 @@
 package leetcode;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -26,16 +27,41 @@ import java.util.List;
  */
 public class L15_3sum {
 
-    public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> result = null;
-
-        if(nums.length < 3){
-            return result;
-        }
+    public static List<List<Integer>> threeSum(int[] nums) {
 
         Arrays.sort(nums);
 
-        return null;
+        List<List<Integer>> res = new ArrayList<>();
+
+        //定位num[k]，找到nums[i] + num[j] + num[k] = 0;
+        for(int k = 0; k < nums.length - 2; k++){
+            if(nums[k] > 0)
+                break;
+            if(k > 0 && nums[k] == nums[k - 1])
+                continue;//本次双指针搜索只会得到重复的组合
+            int i = k + 1, j = nums.length - 1;
+
+            while(i < j){
+
+                int sum = nums[k] + nums[i] + nums[j];
+                if(sum < 0){
+                    while(i < j && nums[i] == nums[++i]);//跳过重复的i
+                } else if (sum > 0) {
+                    while(i < j && nums[j] == nums[--j]);//跳过重复的j
+                } else {
+                    res.add(new ArrayList<Integer>(Arrays.asList(nums[k], nums[i], nums[j])));
+                    while(i < j && nums[i] == nums[++i]);//跳过重复的i和j
+                    while(i < j && nums[j] == nums[--j]);
+                }
+            }
+        }
+        return res;
     }
+
+    public static void main(String[] args) {
+        int[] num = {-1, 0, 1, 2, -1, -4};
+        System.out.println(threeSum(num));
+    }
+
 
 }
